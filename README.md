@@ -30,7 +30,7 @@ The goal of this project is to replace placeholders in dialogue transcripts with
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/privacy_research.git
+    git clone https://github.com/Jackshen-02/privacy_research.git
     ```
 
 2. Navigate to the project directory:
@@ -77,13 +77,13 @@ Generates synthetic data for a given placeholder category using the OpenAI API.
 Replaces placeholders in the text with synthetic data and records the placeholder locations.
 
 ### run_presidio(text)
-Placeholder function to run Presidio on the text and return identified PII locations. Replace with your actual implementation.
+TODO: Placeholder function to run Presidio on the text and return identified PII locations. Our HIPS implementation code.
 
 ### compare_texts(original_text, processed_text)
-Compares the original and processed texts using token-based matching.
+TODO: Compares the original and processed texts using token-based matching.
 
 ### compare_locations(placeholder_locations_list, presidio_pii_locations_list, original_transcripts, processed_transcripts)
-Compares the recorded placeholder locations with Presidio-identified PII locations.
+TODO: Compares the recorded placeholder locations with Presidio-identified PII locations.
 
 ## Data Processing Pipeline
 
@@ -98,4 +98,4 @@ The comparison evaluates the effectiveness of Presidio in identifying PII by mat
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
