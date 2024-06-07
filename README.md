@@ -2,6 +2,16 @@
 
 This repository contains code and resources for researching privacy-preserving techniques in dialogue transcripts. The primary focus is on de-identifying personal identifiable information (PII) using synthetic data generation and evaluating the effectiveness of PII detection tools like Presidio.
 
+## Some important files：
+- Privacy_PLUS-main:
+    - privacy_pipeline.ipynb: where our HIPS implementation is
+    - privacy_code_updated.ipynb
+    - original_transcripts.txt: dataset before replacement using GPT-3.5-turbo
+    - processed_transcripts.txt: dataset after replacement using GPT-3.5-turbo, the most important dataset
+    - placeholder_locations.txt: start and end positions of <Placeholders>
+- public:
+    - teacherstudentchat00###.tsv: the original tutoring transcripts
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Setup](#setup)
