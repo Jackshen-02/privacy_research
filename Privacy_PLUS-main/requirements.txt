@@ -1,0 +1,15 @@
+pandas
+numpy
+presidio-analyzer
+presidio-anonymizer
+flask
+names
+random
+datetime
+spacy
+json
+re
+transformers
+huggingface_hub
+transformers
+openai
