@@ -1,0 +1,4 @@
+(0, 'Angela Meyer', 'PERSON', (1039, 1051))
+(7, 'Nathalie Sylla', 'PERSON', (52, 66))
+(7, 'Nathalie Sylla', 'PERSON', (2281, 2295))
+(7, 'Nathalie Sylla', 'PERSON', (3648, 3662))
