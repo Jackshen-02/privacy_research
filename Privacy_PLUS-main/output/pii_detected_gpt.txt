@@ -2,3 +2,5 @@
 (7, 'Nathalie Sylla', 'PERSON', (52, 66))
 (7, 'Nathalie Sylla', 'PERSON', (2281, 2295))
 (7, 'Nathalie Sylla', 'PERSON', (3648, 3662))
+(5, 'https://www.santander.com/content/dam/santander-com/es/documentos/informe-anual-de-sostenibilidad/2019/ias-2019-informe-de-', 'URL', (3035, 3158))
+(5, 'https://www.greatplacetowork.com/resources/blog/why-is-diversity-inclusion-in-the-workplace-important', 'URL', (4150, 4251))
