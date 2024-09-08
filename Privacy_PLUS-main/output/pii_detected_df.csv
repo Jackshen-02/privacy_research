@@ -1,0 +1,88 @@
+file_idx,entity_text,type,positions,true_label,gpt4omini_label
+0,Angela Meyer,PERSON,"(1039, 1051)",F,T
+5,https://www.santander.com/content/dam/santander-com/es/documentos/informe-anual-de-sostenibilidad/2019/ias-2019-informe-de-,URL,"(3035, 3158)",F,F
+5,https://www.greatplacetowork.com/resources/blog/why-is-diversity-inclusion-in-the-workplace-important,URL,"(4150, 4251)",F,F
+7,Nathalie Sylla,PERSON,"(52, 66)",T,T
+7,Buzan T.,PERSON,"(263, 271)",F,T
+7,Buzan B.,PERSON,"(276, 284)",F,T
+7,Nathalie Sylla,PERSON,"(2281, 2295)",T,T
+7,Nathalie Sylla,PERSON,"(3648, 3662)",T,T
+8,Vanesa Chan,PERSON,"(83, 94)",T,T
+8,Aristotle,PERSON,"(1392, 1401)",F,F
+11,James Cook,PERSON,"(46, 56)",T,T
+11,Challenge,PERSON,"(69, 78)",F,F
+16,Gilberto Gamboa,PERSON,"(22, 37)",T,F
+19,Alessandro,PERSON,"(262, 272)",T,T
+19,Alessandro,PERSON,"(420, 430)",T,T
+20,Sindy Samaca,PERSON,"(32, 44)",T,T
+20,George,PERSON,"(1606, 1612)",F,T
+20,Geoff,PERSON,"(1617, 1622)",F,T
+379,Dharmendra Asiri,PERSON,"(93, 109)",T,T
+379,Dharmendra Asiri,PERSON,"(4222, 4238)",T,T
+379,djones@gmail.com,EMAIL_ADDRESS,"(152, 168)",T,T
+379,https://www.linkedin.com/in/mmartinez,URL,"(179, 216)",T,T
+576,Abhishek Kumar Brahma,PERSON,"(170, 191)",F,T
+576,abhishekkumarbrahma@gmail.com,EMAIL_ADDRESS,"(200, 229)",F,T
+609,Gabriel Bravo,PERSON,"(112, 125)",T,T
+609,Hlengiwe Swetha,PERSON,"(191, 206)",T,T
+609,Tino Swetha,PERSON,"(290, 301)",T,F
+609,SSRK Kasyap,PERSON,"(319, 330)",F,T
+609,Tino Lopez,PERSON,"(348, 358)",T,T
+609,Swetha Swetha,PERSON,"(377, 390)",T,T
+609,Alex Swetha,PERSON,"(409, 420)",T,T
+609,Alex Bravo,PERSON,"(438, 448)",T,F
+609,Tino Lopez,PERSON,"(485, 495)",T,T
+609,Hlengiwe,PERSON,"(640, 648)",T,T
+609,557349702179,PHONE_NUMBER,"(361, 373)",F,T
+609,054176622314,PHONE_NUMBER,"(422, 434)",F,F
+828,Mlungisi Msibi,PERSON,"(60, 74)",T,T
+828,05.02.2021,PHONE_NUMBER,"(76, 86)",F,F
+1434,Al Mkhonza,PERSON,"(0, 10)",T,T
+1434,David Kelley’s,PERSON,"(1163, 1177)",F,F
+1434,Jeanne Liedtka,PERSON,"(1731, 1745)",F,F
+1434,Tim Olgivie,PERSON,"(1750, 1761)",F,F
+1434,6228935144,PHONE_NUMBER,"(28, 38)",F,F
+1440,Andrea De Filippi,PERSON,"(25, 42)",T,T
+1440,hbrewer@yahoo.com,EMAIL_ADDRESS,"(44, 61)",T,T
+1871,Carlos Angelo D. Aguilar,PERSON,"(0, 24)",F,T
+1871,cdaguilar@ust.edu.ph,EMAIL_ADDRESS,"(26, 46)",F,T
+1917,Deepti Prabhaker,PERSON,"(0, 16)",F,T
+1917,Deepti Prabhaker,PERSON,"(1832, 1848)",F,T
+1917,deeptip23@iimklive.com,EMAIL_ADDRESS,"(18, 40)",F,F
+1917,deeptip23@iimklive.com,EMAIL_ADDRESS,"(1850, 1872)",F,F
+2063,Anthony Gamboa,PERSON,"(0, 14)",T,T
+2063,ben,PERSON,"(2020, 2023)",F,F
+2063,qfisher@yahoo.com,EMAIL_ADDRESS,"(16, 33)",T,T
+2457,Asayil Alosaimi,PERSON,"(0, 15)",F,T
+2457,Asayil Alosaimi,PERSON,"(2600, 2615)",F,T
+2457,aalosaimi@averroesinstitute.com,EMAIL_ADDRESS,"(16, 47)",F,F
+2457,aalosaimi@averroesinstitute.com,EMAIL_ADDRESS,"(2616, 2647)",F,F
+2769,Daniela Sangineto,PERSON,"(72, 89)",F,F
+2769,Ruben Soria,PERSON,"(101, 112)",T,T
+2769,matthew72@hotmail.com,EMAIL_ADDRESS,"(114, 135)",T,T
+3518,Enrique Olaya,PERSON,"(47, 60)",T,T
+3518,Ain  Shams,PERSON,"(89, 99)",F,F
+3518,1836336882,PHONE_NUMBER,"(67, 77)",F,F
+3993,Amin Khan,PERSON,"(87, 96)",T,T
+3993,Raimundo Nonato,PERSON,"(212, 227)",F,F
+3993,079629254,PHONE_NUMBER,"(98, 107)",F,T
+4381,hwillis@gmail.com,EMAIL_ADDRESS,"(97, 114)",T,T
+4381,http://www.udel.edu/chem/white/C342/CMap.ppt,URL,"(5727, 5771)",F,F
+4381,http://www.udel.edu/chem/white/C342/CMap.ppt  http://tutorials.istudy.psu.edu/conceptmaps/,URL,"(5727, 5817)",F,F
+4381,http://www.udel.edu/chem/white/C342/CMap.ppt  http://tutorials.istudy.psu.edu/conceptmaps/  http://www.mind-mapping.co.uk/mind-maps-examples/education.htm,URL,"(5727, 5881)",F,F
+4381,http://www.udel.edu/chem/white/C342/CMap.ppt  http://tutorials.istudy.psu.edu/conceptmaps/  http://www.mind-mapping.co.uk/mind-maps-examples/education.htm  http://www.mindmapart.com/,URL,"(5727, 5909)",F,F
+4381,http://www.udel.edu/chem/white/C342/CMap.ppt  http://tutorials.istudy.psu.edu/conceptmaps/  http://www.mind-mapping.co.uk/mind-maps-examples/education.htm  http://www.mindmapart.com/  http://www.informationtamers.com/WikIT/index.php?title=Information_map,URL,"(5727, 5981)",F,F
+4381,http://www.greendealsolutions.net/wp-content/uploads/2013/03/strategies-for-change.jpg,URL,"(4070, 4156)",F,F
+4381,http://au.youtube.com/results?search_query=tony+buzan,URL,"(6014, 6067)",F,F
+4381,(320)202-0688x95843,PHONE_NUMBER,"(76, 95)",T,T
+4777,"Eslam Abo Fatma
+
+Rwanda- Africa",PERSON,"(2168, 2199)",F,T
+4777,murraythomas@gmail.com,EMAIL_ADDRESS,"(2208, 2230)",T,T
+4777,(223)392-2765,PHONE_NUMBER,"(2237, 2250)",T,F
+4913,Nizam Ahmed,PERSON,"(39, 50)",T,T
+4913,Sana Ahmed,PERSON,"(194, 204)",T,T
+4913,Asmaa Ahmed,PERSON,"(237, 248)",T,T
+4913,Father,PERSON,"(2407, 2413)",F,F
+4913,09-22-2014,PHONE_NUMBER,"(164, 174)",F,F
+4913,046922558887,PHONE_NUMBER,"(316, 328)",F,F
