@@ -1,0 +1,19 @@
+file_idx,entity_text,type,positions,true_label,sentence,gpt4omini_result
+11262,Anna,PERSON,"(625, 629)",F,"So, how can we help Anna in 21st century to make her
+
+comfortable with her financial freedom.",F
+17468,Ed Hesse,PERSON,"(1500, 1508)",F,"As Professor Ed Hesse says in his Video about  the Learning Launch tool, the key is to do quick and cheap experiments looking for the  greatest impact on our business.",F
+16660,Sam,PERSON,"(3492, 3495)",F,"Unknown (a cybercriminal), The Alpha Retail (an online retail  store), Sam (an online customer) and David (information security officer).",F
+7482,Charles Williams,PERSON,"(1792, 1808)",F,"Secondly, I am fascinated with the comment from Professor Charles Williams that  ideas are like sand on the beach, which is plentiful.",F
+12596,Catalina Davies,PERSON,"(8381, 8396)",F,"As Catalina Davies says when she talks about managers  trapped in growth gridlock (and I know now after experienced it along these months and after  this training),  my  position holds an ""irreconcilable tension"" between both focus points.",F
+14919,Jean Cheng,PERSON,"(6574, 6584)",T,"Design Thinking for Innovation / Peer-graded Assignment  Jean Cheng
+
+Approach  First, it would be better if we got some design thinking coaching before we start.",T
+10636,Ishikawa,PERSON,"(453, 461)",F,"During such  meetings, one of the visualization tools is Ishikawa charts or ""FishBone"" diagrams.",F
+8913,Albert Einstein,PERSON,"(1641, 1656)",F,"""
+
+Albert Einstein",F
+3885,Luca,PERSON,"(1797, 1801)",T,"Insight
+
+After I collected the data, I set up a meeting with Irina, Luca my boss, and  Luca the VP of Engineering.",F
+17528,Thomas Meyer,PERSON,"(184, 196)",F,"This tool is an  experiment that tests a new idea in a real marketplace, and was described by Thomas Meyer in  week 4 of this course.",F
