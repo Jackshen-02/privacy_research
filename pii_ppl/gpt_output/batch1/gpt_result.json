@@ -1,0 +1,36 @@
+{
+    "doc1": {
+        "text": "John Doe's email is john.doe@example.com.",
+        "entities": [
+            {
+                "entity_text": "John Doe",
+                "type": "NAME_STUDENT",
+                "positions": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "entity_text": "john.doe@example.com",
+                "type": "EMAIL",
+                "positions": [
+                    20,
+                    40
+                ]
+            }
+        ]
+    },
+    "doc2": {
+        "text": "Visit https://www.example.com for more info.",
+        "entities": [
+            {
+                "entity_text": "https://www.example.com",
+                "type": "URL_PERSONAL",
+                "positions": [
+                    6,
+                    29
+                ]
+            }
+        ]
+    }
+}

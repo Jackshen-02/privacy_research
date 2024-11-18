@@ -1,0 +1,21 @@
+{
+  "displayName": "Document PII Detection Task Example",
+  "analysisInput": {
+    "documents": [
+      {
+        "id": "1",
+        "language": "en",
+        "text": "Call our office at 312-555-1234, or send an email to support@contoso.com"
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "kind": "PiiEntityRecognition",
+      "taskName": "Document PII Detection Task 1",
+      "parameters": {
+        "model-version": "latest"
+      }
+    }
+  ]
+}
